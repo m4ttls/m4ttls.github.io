@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "m4ttls"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://avatars2.githubusercontent.com/u/1009056?v=3&u=26d0396467eb5318cd13a920a0ec5098af39541b&s=400" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Just another IT guy"
   location         : "Argentina"
   email            :
